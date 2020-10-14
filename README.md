@@ -1,5 +1,5 @@
 # atom-ide-angular package
 
-A short description of your package.
+Quick Start: install atom-ide-ui package, clone this repo, run `apm install && apm link` in the repo root.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Language server "works", i.e. is wired into Atom, but consistently returns empty replies. I have no idea why. Feel free to fork and try to figure it out.
